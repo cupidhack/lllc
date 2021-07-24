@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+lllc/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -41,7 +42,3 @@ docs/vyper.*.rst
 .tox/
 .mypy_cache/
 .hypothesis/
-
-# vyper
-vyper/vyper_git_version.txt
-*.spec
